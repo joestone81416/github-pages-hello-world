@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    border: grey 2px solid;
+}
+
+main {
+    background-color: grey;
+}
+
+main h1 {
+    font-size: 500%;
+    color: ivory;
+    margin: 0 auto;
+    padding: 200px;
+    text-align: center;
+}
